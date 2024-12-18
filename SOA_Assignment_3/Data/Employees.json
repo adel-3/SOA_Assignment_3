@@ -1,0 +1,50 @@
+[
+  {
+    "EmployeeID": 2000,
+    "FirstName": "John",
+    "LastName": "Adamo",
+    "Designation": "Developer",
+    "KnownLanguages": [
+      {
+        "LanguageName": "Perl",
+        "ScoreOutof100": 30
+      },
+      {
+        "LanguageName": "Java",
+        "ScoreOutof100": 65
+      },
+      {
+        "LanguageName": "C\u002B\u002B",
+        "ScoreOutof100": 70
+      }
+    ]
+  },
+  {
+    "EmployeeID": 1,
+    "FirstName": "abdo",
+    "LastName": "adel",
+    "Designation": "programmer",
+    "KnownLanguages": [
+      {
+        "LanguageName": "c\u002B\u002B",
+        "ScoreOutof100": 70
+      }
+    ]
+  },
+  {
+    "EmployeeID": 10,
+    "FirstName": "abdo",
+    "LastName": "adel",
+    "Designation": "programmer",
+    "KnownLanguages": [
+      {
+        "LanguageName": "c\u002B\u002B",
+        "ScoreOutof100": 70
+      },
+      {
+        "LanguageName": "python",
+        "ScoreOutof100": 70
+      }
+    ]
+  }
+]

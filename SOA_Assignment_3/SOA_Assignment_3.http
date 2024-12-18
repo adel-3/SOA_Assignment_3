@@ -1,0 +1,6 @@
+@SOA_Assignment_3_HostAddress = http://localhost:5147
+
+GET {{SOA_Assignment_3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
